@@ -1,0 +1,12 @@
+{
+  "name": "basic-book-store",
+  "version": "1.0.0",
+  "description": "Basic book store implementation (MS coding exercise)",
+  "main": "app.js",
+  "author": "Kim-Adeline Miguel",
+  "license": "ISC",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "minimist": "^1.2.0"
+  }
+}
